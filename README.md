@@ -29,10 +29,6 @@ Sempre aberta a novas conexões, ideias e colaborações. 💡
 ---
 
 ### 🌐 *Contato*
-
-### 🌐 *Contato*
-<section style="text-align: center; font-style: italic;">
-  <ul style="list-style: none; padding: 0; margin: 0; display: inline-flex; flex-direction: column; gap: 12px; align-items: center;" </section>
     
 <p align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
     <a href="mailto:jaqueline.s.gomes05@gmail.com">
@@ -58,10 +54,8 @@ Sempre aberta a novas conexões, ideias e colaborações. 💡
     </a>
 </p>
 
-
-
-
 ---
+
 
 ### 🤖 Linguagens e Tecnologias
 
