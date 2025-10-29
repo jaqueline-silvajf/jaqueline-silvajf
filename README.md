@@ -7,8 +7,6 @@ Atualmente, estou focada em aprender **HTML**, **CSS** e **JavaScript**, desenvo
 Tenho como objetivo unir a criatividade da escrita com a lógica da programação, criando soluções inovadoras e ecológicas. 🚀  
 Sempre aberta a novas conexões, ideias e colaborações. 💡
 
-
-
 ---
 
 ### ⭐ GitHub
@@ -28,74 +26,81 @@ Sempre aberta a novas conexões, ideias e colaborações. 💡
     />
 </a>
 
+---
 
-### 🌐 Contato
+### 🌐 *Contato*
 
-<a href="mailto:jaqueline.s.gomes05@gmail.com">
-    <img 
-        alt="E-mail" 
-        title="Enviar e-mail" 
-        src="https://custom-icon-badges.demolab.com/badge/E--mail-jaqueline.s.gomes05@gmail.com-660033?style=for-the-badge&logo=mail&logoColor=white&labelColor=4d0026"
-    />
-</a>
- <br> 
-<a href="http://linkedin.com/in/jaquelinejf" target="_blank">
-    <img 
-        alt="LinkedIn" 
-        title="Conectar no LinkedIn" 
-        src="https://custom-icon-badges.demolab.com/badge/LinkedIn-jaquelinejf-660066?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4d004d"
-    />
-</a>  <br> 
-<a href="https://gramposcrm.wordpress.com/" target="_blank">
-    <img 
-        alt="Blog Pessoal" 
-        title="Visitar o Blog" 
-        src="https://custom-icon-badges.demolab.com/badge/Blog-gramposcrm.wordpress.com-6C63FF?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=5a52cc"
-    />
-</a>
-
-
+<p align="center">
+    <a href="mailto:jaqueline.s.gomes05@gmail.com">
+        <img 
+            alt="E-mail" 
+            title="Enviar e-mail" 
+            src="https://custom-icon-badges.demolab.com/badge/E--mail-jaqueline.s.gomes05@gmail.com-660033?style=for-the-badge&logo=mail&logoColor=white&labelColor=4d0026"
+        />
+    </a>
+    <a href="http://linkedin.com/in/jaquelinejf" target="_blank">
+        <img 
+            alt="LinkedIn" 
+            title="Conectar no LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-jaquelinejf-660066?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4d004d"
+        />
+    </a>
+    <a href="https://gramposcrm.wordpress.com/" target="_blank">
+        <img 
+            alt="Blog Pessoal" 
+            title="Visitar o Blog" 
+            src="https://custom-icon-badges.demolab.com/badge/Blog-gramposcrm.wordpress.com-6C63FF?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=5a52cc"
+        />
+    </a>
+</p>
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-<img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-<img align="left" alt="Tailwind" title="Tailwind" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
-<img align="left" alt="SASS" title="SASS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-<img align="left" alt="Laravel" title="Laravel" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/>
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-
-<br/>
-<br/>
+<p align="left">
+    <img alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+    <img alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+    <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+    <img alt="TypeScript" title="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+    <img alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+    <img alt="Next.js" title="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+    <img alt="Bootstrap" title="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+    <img alt="Tailwind" title="Tailwind" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
+    <img alt="SASS" title="SASS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+    <img alt="PHP" title="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+    <img alt="Laravel" title="Laravel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/>
+    <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+    <img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+</p>
 
 ---
 
 ### 📊 Estatísticas
 
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api?username=jaqueline-silvajf&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
-<img 
-  align="left" 
-  alt="Top Langs" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaqueline-silvajf&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
+<p align="center">
+    <img 
+        alt="GitHub Stats" 
+        height="180em" 
+        src="https://github-readme-stats.vercel.app/api?username=jaqueline-silvajf&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    />
+    <img 
+        alt="Top Langs" 
+        height="180em" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaqueline-silvajf&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    />
+</p>
+
+---
+
+### 🐍 Snake comendo meus commits
+<p align="center">
+  <img 
+    src="https://github.com/jaqueline-silvajf/jaqueline-silvajf/blob/output/github-contribution-grid-snake.svg" 
+    alt="Snake animation comendo commits"
+  />
+</p>
 
 ---
 
 💻 Feito com 💙 por **Jaqueline Silva** — inspirado por [gptonline.ai](https://gptonline.ai/)
-
