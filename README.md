@@ -30,29 +30,42 @@ Sempre aberta a novas conexões, ideias e colaborações. 💡
 
 ### 🌐 *Contato*
 
-<p align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-    <a href="mailto:jaqueline.s.gomes05@gmail.com">
+<section style="text-align: center; font-style: italic;">
+  <ul style="list-style: none; padding: 0; margin: 0; display: inline-flex; flex-direction: column; gap: 12px; align-items: center;">
+    
+    <li>
+      <a href="mailto:jaqueline.s.gomes05@gmail.com">
         <img 
-            alt="E-mail" 
-            title="Enviar e-mail" 
-            src="https://custom-icon-badges.demolab.com/badge/E--mail-jaqueline.s.gomes05@gmail.com-660033?style=for-the-badge&logo=mail&logoColor=white&labelColor=4d0026"
+          alt="E-mail" 
+          title="Enviar e-mail" 
+          src="https://custom-icon-badges.demolab.com/badge/E--mail-jaqueline.s.gomes05@gmail.com-660033?style=for-the-badge&logo=mail&logoColor=white&labelColor=4d0026"
         />
-    </a>
-    <a href="http://linkedin.com/in/jaquelinejf" target="_blank">
+      </a>
+    </li>
+    
+    <li>
+      <a href="http://linkedin.com/in/jaquelinejf" target="_blank" rel="noopener">
         <img 
-            alt="LinkedIn" 
-            title="Conectar no LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-jaquelinejf-660066?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4d004d"
+          alt="LinkedIn" 
+          title="Conectar no LinkedIn" 
+          src="https://custom-icon-badges.demolab.com/badge/LinkedIn-jaquelinejf-660066?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4d004d"
         />
-    </a>
-    <a href="https://gramposcrm.wordpress.com/" target="_blank">
+      </a>
+    </li>
+    
+    <li>
+      <a href="https://gramposcrm.wordpress.com/" target="_blank" rel="noopener">
         <img 
-            alt="Blog Pessoal" 
-            title="Visitar o Blog" 
-            src="https://custom-icon-badges.demolab.com/badge/Blog-gramposcrm.wordpress.com-6C63FF?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=5a52cc"
+          alt="Blog Pessoal" 
+          title="Visitar o Blog" 
+          src="https://custom-icon-badges.demolab.com/badge/Blog-gramposcrm.wordpress.com-6C63FF?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=5a52cc"
         />
-    </a>
-</p>
+      </a>
+    </li>
+    
+  </ul>
+</section>
+
 
 
 ---
