@@ -90,17 +90,6 @@ Sempre aberta a novas conexões, ideias e colaborações. 💡
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaqueline-silvajf&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
     />
 </p>
-
----
-
-### 🐍 Snake comendo meus commits
-<p align="center">
-  <img 
-    src="https://github.com/jaqueline-silvajf/jaqueline-silvajf/blob/output/github-contribution-grid-snake.svg" 
-    alt="Snake animation comendo commits"
-  />
-</p>
-
 ---
 
 💻 Feito com 💙 por **Jaqueline Silva** — inspirado por [gptonline.ai](https://gptonline.ai/)
