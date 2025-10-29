@@ -15,24 +15,28 @@ Atualmente, estou focada em aprender **HTML**, **CSS** e **JavaScript**, desenvo
 Tenho como objetivo unir a criatividade da escrita com a lógica da programação, criando soluções inovadoras e ecológicas. 🚀  
 Sempre aberta a novas conexões, ideias e colaborações. 💡
 
----
 
+<!-- 🌟 Seção do GitHub 
 ### ⭐ GitHub
 
+
 <a href="https://github.com/jaqueline-silvajf?tab=repositories&sort=stargazers">
+    
     <img 
         alt="Total de estrelas" 
         title="Total de estrelas no GitHub" 
         src="https://custom-icon-badges.demolab.com/github/stars/jaqueline-silvajf?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
     />
 </a> 
+
 <a href="https://github.com/jaqueline-silvajf?tab=followers">
+  
     <img 
         alt="Seguidores" 
         title="Me siga no GitHub" 
         src="https://custom-icon-badges.demolab.com/github/followers/jaqueline-silvajf?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
     />
-</a>
+</a> -->
 
 ---
 
