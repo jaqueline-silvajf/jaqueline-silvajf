@@ -30,7 +30,7 @@ Sempre aberta a novas conexões, ideias e colaborações. 💡
 
 ### 🌐 *Contato*
 
-<p align="center">
+<p align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
     <a href="mailto:jaqueline.s.gomes05@gmail.com">
         <img 
             alt="E-mail" 
@@ -53,6 +53,7 @@ Sempre aberta a novas conexões, ideias e colaborações. 💡
         />
     </a>
 </p>
+
 
 ---
 
